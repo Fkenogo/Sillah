@@ -1,0 +1,8 @@
+{
+  "name": "Siilah",
+  "description": "A Christian-leaning spiritual community app for building deep connections through intentional prayer circles and AI-guided facilitation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
